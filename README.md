@@ -1,5 +1,4 @@
 # Hackathons_Scrapper
-Python program which gives the details of Hackathons going around the world. 
+Python program which gives the details of Hackathons going around the world. There is still a lot to do
 
-### Note
-Work is still in progress
+
